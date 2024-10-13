@@ -7,6 +7,9 @@
 ## Habilidades    
 ![Java](https://img.shields.io/badge/java-773182.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-de2f8c?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-773182?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmandaVoigt&layout=compact&bg_color=000&border_color=773182&title_color=773182&text_color=fafbfc)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmandaVoigt&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
