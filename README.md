@@ -6,8 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-de2f8c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaVoigt) [![WhatsApp](https://img.shields.io/badge/WhatsApp-773182?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513997473560)
 ## Habilidades    
 ![Java](https://img.shields.io/badge/java-773182.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-de2f8c?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-773182.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-de2f8c?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
