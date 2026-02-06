@@ -16,18 +16,32 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AmandaVoigt
+
           template: classic
           base: header, activity, community
           config_timezone: America/Sao_Paulo
 
+          # 🎨 Aparência
+          config_display: large
+          config_output: github-metrics.svg
+          config_twemoji: yes
+
+          # 🌙 Dark mode
+          config_background: "#0d1117"
+          config_border: 0
+
+          # 📊 Linguagens
           plugin_languages: yes
+          plugin_languages_limit: 6
           plugin_languages_details: percentage
-          plugin_languages_limit: 5
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-
+          # 🧠 Atividade (sem erros)
           plugin_activity: yes
           plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork
+
+          # ❌ DESATIVADOS (causavam erro)
+          plugin_achievements: no
