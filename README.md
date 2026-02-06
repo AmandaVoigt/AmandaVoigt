@@ -62,8 +62,7 @@ Os repositórios fixados no meu perfil representam minha evolução no desenvolv
 
 ## 🐍 Minhas contribuições
 
-![Snake animation](https://github.com/AmandaVoigt/AmandaVoigt/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/AmandaVoigt/AmandaVoigt/blob/output/github-contribution-grid-snake-dark.svg)
 
 ⭐ Bora programar!
 
