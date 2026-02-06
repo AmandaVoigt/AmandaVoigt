@@ -30,6 +30,10 @@
 ### 🔥 Meu GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmandaVoigt&theme=dracula)
 
+## 📊 GitHub Metrics
+
+![Metrics](https://github.com/AmandaVoigt/AmandaVoigt/blob/main/github-metrics.svg)
+
 ---
 
 ## 📌 Projetos em destaque
