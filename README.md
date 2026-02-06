@@ -1,17 +1,69 @@
-# AmandaVoigt
+# 👋 Oi! Eu sou a Amanda Voigt
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-773182?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-voigt-guimarães/)
-[![Instagram](https://img.shields.io/badge/-Instagram-de2f8c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandavoiigt/) [![E-mail](https://img.shields.io/badge/-Email-773182?style=for-the-badge&logo=microsoft-outlook&logoColor=000?)](mailto:amanda02_vg@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-de2f8c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmandaVoigt) [![WhatsApp](https://img.shields.io/badge/WhatsApp-773182?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513997473560)
+💜 Desenvolvedora Front-end em formação  
+📍 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Criando projetos e aprendendo todos os dias
 
-## Habilidades    
-![JavaScript](https://img.shields.io/badge/JavaScript-773182?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/java-de2f8c.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-773182?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-de2f8c?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmandaVoigt&bg_color=000&border_color=773182&title_color=773182&text_color=FFF)
+## 🛠️ Tech Stack  
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="35" width="40" style="margin: 0 8px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📊 Contribuições
+
+### 🔥 Meu GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmandaVoigt&theme=dracula)
+
+---
+
+## 📌 Projetos em destaque
+
+Aqui você encontra projetos desenvolvidos durante meus estudos, com foco em **HTML, CSS, JavaScript e React**, aplicando na prática os conceitos que estou aprendendo.
+
+Os repositórios fixados no meu perfil representam minha evolução no desenvolvimento Front-end, desde projetos mais simples até aplicações um pouco mais mais completas.
+
+
+---
+
+## 🌐 Onde me encontrar
+
+<div> 
+  <a href="https://www.linkedin.com/in/amanda-voigt-guimar%C3%A3es/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/amandavoiigt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:amanda02_vg@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/_amandaguimaraes" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/AmandaVoigt/AmandaVoigt/blob/output/github-contribution-grid-snake.svg)
+
+
+⭐ Bora programar!
 
