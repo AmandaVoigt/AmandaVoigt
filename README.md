@@ -1,4 +1,4 @@
-# 👋 Oi! Eu sou a Amanda Voigt
+# 👋 Oi! Eu sou a Amanda
 
 💜 Desenvolvedora Front-end em formação  
 📍 Estudante de **Análise e Desenvolvimento de Sistemas**  
