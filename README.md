@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack  
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="HTML" height="35" width="40" style="margin: 0 8px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="40" style="margin: 0 8px;"
