@@ -8,22 +8,15 @@
 
 ## 🛠️ Tech Stack  
 
-<div style="display: flex"><br>
-  <img align="center" alt="HTML" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Git" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="35" width="40" style="margin: 0 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+<p>
+  <img alt="HTML" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="TypeScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
 
 ---
 
